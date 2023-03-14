@@ -1,0 +1,8 @@
+{
+  "name": "AbilityApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "665e1a93"
+}

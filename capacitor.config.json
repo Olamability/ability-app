@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AbilityApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
